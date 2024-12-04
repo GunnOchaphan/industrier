@@ -24,9 +24,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Space Mono",
+        header: "Geist Mono",
         body: "Source Sans Pro",
-        code: "Space Mono",
+        code: "Geist Mono",
       },
       colors: {
         lightMode: {
@@ -34,10 +34,10 @@ const config: QuartzConfig = {
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
+          dark: "#141414",
           secondary: "#284b63",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          highlight: "#141414",
           textHighlight: "#fff23688",
         },
         darkMode: {
